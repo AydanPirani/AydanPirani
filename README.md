@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm Aydan, and I'm currently studying computer science at the University of Illinois at Urbana-Champaign!
+
+Feel free to reach out to me at aydanpirani@gmail.com!
 <!--
 **AydanPirani/AydanPirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

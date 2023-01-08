@@ -3,7 +3,7 @@
 
 I'm Aydan, and I'm currently studying computer science at the University of Illinois at Urbana-Champaign!
 
-Feel free to reach out to me at aydanpirani@gmail.com!
+Feel free to reach out to me at aydanpirani@gmail.com, or learn more about me at [aydanpirani.github.io](aydanpirani.github.io)!
 
 
 <!--

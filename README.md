@@ -4,6 +4,10 @@
 I'm Aydan, and I'm currently studying computer science at the University of Illinois at Urbana-Champaign!
 
 Feel free to reach out to me at aydanpirani@gmail.com!
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aydanpirani)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **AydanPirani/AydanPirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
